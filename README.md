@@ -2,7 +2,7 @@
 开放云存储（Bricky Open Storage）
 ##欢迎使用开放云存储  
 ###项目说明  
-该项目为**仿制**某云存储，各个模块松耦合。该项目支撑了[Mnemosyne - 同学录项目](https://github.com/SUTFutureCoder/Mnemosyne)，以及本人EX的[教学资源云平台](https://github.com/SUTFutureCoder/Cloud-platform-for-teaching-resources)数据存放、浏览需求。服务端放置在某低价折扣买来的阿里云辣鸡虚拟共享主机上。  
+该项目为**仿制**某云存储，各个模块松耦合。该项目支撑了[Mnemosyne - 同学录项目](https://github.com/SUTFutureCoder/Mnemosyne)，以及本人为EX开发的[教学资源云平台](https://github.com/SUTFutureCoder/Cloud-platform-for-teaching-resources)数据存放、浏览需求。服务端放置在某低价折扣买来的阿里云辣鸡虚拟共享主机上。  
 
 支持分享码、防盗链、举报、bucket-object分离、用户控制、在线预览（图片、视频流跳转、pdf文档、图片实时缩放、质量控制）等特征。并且服务端能够平稳运行在辣鸡共享主机上，不依赖redis等各种拓展即可跑起来。目前没时间开发界面……但五脏俱全。  
 
